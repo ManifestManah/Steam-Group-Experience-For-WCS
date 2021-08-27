@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"Steam Group Experience Kill"
+	{
+		"#format"		"{1:i}"
+		"en"			"{green}[WCS] {default}That kill gave you {lightgreen}{1} bonus XP{default} for being a member of the steam group."
+		"da"			"{green}[WCS] {default}Det kill gav dig {lightgreen}{1} bonus XP{default} fordi du er medlem af steamgruppen."
+	}
+
+	"Steam Group Experience Round Start"
+	{
+		"#format"		"{1:i}"
+		"en"			"{green}[WCS] {default}You were awarded with {lightgreen}{1} bonus XP{default} for being in the steam group."
+		"da"			"{green}[WCS] {default}Du modtog {lightgreen}{1} bonus XP{default} fordi du er medlem af steamgruppen."
+	}
+
+	"Steam Group Experience Messages Enabled"
+	{
+		"en"			"{green}[WCS] {default}The experience bounty announcements are now {lightgreen}turned on{default}."
+		"da"			"{green}[WCS] {default}Experience dusørannonceringerne blev {lightgreen}slået til{default}."
+	}
+
+	"Steam Group Experience Messages Disabled"
+	{
+		"en"			"{green}[WCS] {default}The experience bounty announcements are now {lightgreen}turned off{default}."
+		"da"			"{green}[WCS] {default}Experience dusørannonceringerne blev {lightgreen}slået fra{default}."
+	}
+}
